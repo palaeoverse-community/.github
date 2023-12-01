@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome to the Palaeoverse Community!</h1>
+<h1>Welcome to Palaeoverse!</h1>
 <h3>A Resource Hub for Palaeobiologists</h3>
   
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ThePalaeoverse.svg?style=social&label=Follow%20us%20%40ThePalaeoverse)](https://x.com/ThePalaeoverse)
