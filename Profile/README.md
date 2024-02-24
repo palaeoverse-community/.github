@@ -6,7 +6,7 @@
 
 </div>
 
-[Palaeoverse](https://palaeoverse.org) is an initiative which aims to bring the palaeobiology community together to share resources, reach agreed standards, and improve reproducibility in palaeobiological research. We provide **R Packages** for data preparation, exploration, and visualisation. Software development is currently led by a community of [early career researchers](https://palaeoverse.org/about#our-team). We are passionate about improving code readability, reproduciblity, and accessibility in palaeobiology. If you are interested in getting involved in Palaeoverse, [get in contact](mailto:LewisA.Jones@outlook.com)! 👋
+[Palaeoverse](https://palaeoverse.org) is an initiative which aims to bring the palaeobiology community together to share resources, reach agreed standards, and improve reproducibility in palaeobiological research. We provide **R Packages** for data preparation, exploration, and visualisation. Software development is currently led by a community of [early career researchers](https://palaeoverse.org/about#our-team). We are passionate about improving code readability, reproducibility, and accessibility in palaeobiology. If you are interested in getting involved in Palaeoverse, [get in contact](mailto:LewisA.Jones@outlook.com)! 👋
 
 All our code is, and will always be, **free and open-source**. <ins>We don't do barriers</ins>. 🔓
 
