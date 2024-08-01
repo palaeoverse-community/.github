@@ -23,6 +23,11 @@ All our code is, and will always be, **free and open-source**. <ins>We don't do 
 <a href="https://cran.r-project.org/package=palaeoverse"><img src="https://cranlogs.r-pkg.org/badges/grand-total/palaeoverse" alt="CRAN downloads"></a>
 <a href="https://CRAN.R-project.org/package=palaeoverse"><img src="https://www.r-pkg.org/badges/version/palaeoverse" alt="CRAN status"></a>
 
+- [rmacrostrat](https://rmacrostrat.palaeoverse.org): rmacrostrat provides functionality to work with the Macrostrat Web Service (<https://macrostrat.org/>) to fetch geological data relevant to the spatial and temporal distribution of sedimentary, igneous, and metamorphic rocks as well as data extracted from them.  **Coming soon to CRAN!** <br>
+<a href="https://zenodo.org/badge/latestdoi/13143096"><img src="https://zenodo.org/badge/13143096" alt="Zenodo"></a>
+<a href="https://cran.r-project.org/package=rmacrostrat"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rmacrostrat" alt="CRAN downloads"></a>
+<a href="https://CRAN.R-project.org/package=rmacrostrat"><img src="https://www.r-pkg.org/badges/version/rmacrostrat" alt="CRAN status"></a>
+
 - [rphylopic](https://rphylopic.palaeoverse.org): rphylopic allows users to add silhouettes of organisms from the PhyloPic website to plots generated in base R and ggplot2. rphylopic was originally developed and maintained by <a href="https://scottchamberlain.info" style="text-decoration: none">Scott Chamberlain</a>. From ver. 1.0.0, the package is now developed and maintained by the Palaeoverse team. <br>
 <a href="https://doi.org/10.5281/zenodo.10093317"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10093317.svg" alt="DOI"></a>
 <a href="https://cran.r-project.org/package=rphylopic"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rphylopic" alt="CRAN downloads"></a>
@@ -32,8 +37,6 @@ All our code is, and will always be, **free and open-source**. <ins>We don't do 
 <a href="https://zenodo.org/badge/latestdoi/564230284"><img src="https://zenodo.org/badge/564230284.svg" alt="Zenodo"></a>
 <a href="https://cran.r-project.org/package=sepkoski"><img src="https://cranlogs.r-pkg.org/badges/grand-total/sepkoski" alt="CRAN downloads"></a>
 <a href="https://CRAN.R-project.org/package=sepkoski"><img src="https://www.r-pkg.org/badges/version/sepkoski" alt="CRAN status"></a>
-
-- [rmacrostrat](https://rmacrostrat.palaeoverse.org): rmacrostrat provides functionality to work with the Macrostrat Web Service (<https://macrostrat.org/>) to fetch geological data relevant to the spatial and temporal distribution of sedimentary, igneous, and metamorphic rocks as well as data extracted from them.  **Coming soon to CRAN!** <br>
 
 
 
