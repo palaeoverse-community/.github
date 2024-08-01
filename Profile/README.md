@@ -13,9 +13,9 @@ All our code is, and will always be, **free and open-source**. <ins>We don't do 
 ## Our toolkits
 <div align="center">
   <a href="https://palaeoverse.palaeoverse.org"><img src="./logo/palaeoverse.png" width="120" /></a>
+  <a href="https://rmacrostrat.palaeoverse.org"><img src="./logo/rmacrostrat.png" width="120" /></a>
   <a href="https://rphylopic.palaeoverse.org"><img src="./logo/rphylopic.png" width="120" /></a>
   <a href="https://sepkoski.palaeoverse.org"><img src="./logo/sepkoski.png" width="120" /></a>
-  <a href="https://rmacrostrat.palaeoverse.org"><img src="./logo/rmacrostrat.png" width="120" /></a>
 </div>
 
 - [palaeoverse](https://palaeoverse.palaeoverse.org): palaeoverse provides functionality to support data preparation and exploration for palaeobiological analyses, improving code reproducibility and accessibility. The aim of the palaeoverse R package is to bring the palaeobiological community together to establish agreed standards. <br>
@@ -23,8 +23,8 @@ All our code is, and will always be, **free and open-source**. <ins>We don't do 
 <a href="https://cran.r-project.org/package=palaeoverse"><img src="https://cranlogs.r-pkg.org/badges/grand-total/palaeoverse" alt="CRAN downloads"></a>
 <a href="https://CRAN.R-project.org/package=palaeoverse"><img src="https://www.r-pkg.org/badges/version/palaeoverse" alt="CRAN status"></a>
 
-- [rmacrostrat](https://rmacrostrat.palaeoverse.org): rmacrostrat provides functionality to work with the Macrostrat Web Service (<https://macrostrat.org/>) to fetch geological data relevant to the spatial and temporal distribution of sedimentary, igneous, and metamorphic rocks as well as data extracted from them.  **Coming soon to CRAN!** <br>
-<a href="https://zenodo.org/badge/latestdoi/13143096"><img src="https://zenodo.org/badge/13143096" alt="Zenodo"></a>
+- [rmacrostrat](https://rmacrostrat.palaeoverse.org): rmacrostrat provides functionality to work with the Macrostrat Web Service (<https://macrostrat.org/>) to fetch geological data relevant to the spatial and temporal distribution of sedimentary, igneous, and metamorphic rocks as well as data extracted from them. <br>
+<a href="https://doi.org/10.5281/zenodo.13143096"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13143096.svg" alt="DOI"></a>
 <a href="https://cran.r-project.org/package=rmacrostrat"><img src="https://cranlogs.r-pkg.org/badges/grand-total/rmacrostrat" alt="CRAN downloads"></a>
 <a href="https://CRAN.R-project.org/package=rmacrostrat"><img src="https://www.r-pkg.org/badges/version/rmacrostrat" alt="CRAN status"></a>
 
